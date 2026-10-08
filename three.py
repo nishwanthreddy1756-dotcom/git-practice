@@ -1,5 +1,4 @@
 print("Helllo Ind")
-print("buy")
+ptint("kakakak")
 
-def(text: str, done: str)
-print("hello")
+print("helow")
